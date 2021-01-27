@@ -1,0 +1,8 @@
+# spooky secrets
+.env
+
+# npm/yarn
+
+node_modules
+package-lock.json
+yarn.lock
